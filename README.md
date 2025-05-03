@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/strickvl-mcp-beeminder-badge.png)](https://mseep.ai/app/strickvl-mcp-beeminder)
+
 # MCP Beeminder Server
 
 This project implements a [Model Context Protocol
